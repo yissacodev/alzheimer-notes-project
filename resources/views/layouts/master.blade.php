@@ -9,7 +9,6 @@
     <meta http-equiv="x-ua-compatible" content="ie-edge">
 
     <link rel="icon" type="image/png" href="img/favicon.ico" sizes="64x64">
-
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/pagina.css" rel="stylesheet">
