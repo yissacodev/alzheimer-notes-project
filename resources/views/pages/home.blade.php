@@ -114,10 +114,8 @@
             <p>Fuentes bibliográficas</p>
             <a href="/bibliografia" class="text-dark">Consulte aquí la documentación bibliográfica de esta página</a>
         </div>
-
     </div>
 </section>
-
 <section id="aboutus" class="bg-light-gray">
     <div class="container">
         <div class="content-center">
